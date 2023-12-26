@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author aidata
- *
- */
-module abc {
-}
